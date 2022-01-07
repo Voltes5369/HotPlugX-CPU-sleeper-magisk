@@ -1,0 +1,1 @@
+# HotPlugX-CPU-sleeper-magisk
